@@ -1,0 +1,8 @@
+{
+  "name": "CCM Printing Management System",
+  "description": "A centralized printing management solution for the College of Computing and Mathematics, featuring secure job release, quota management, and administrative oversight.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
